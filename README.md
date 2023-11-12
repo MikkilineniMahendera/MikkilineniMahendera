@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Mikkilineni Mahendra! I'm a software enginner passionate about making a dent in the universe. 
+ ### Hi there 👋
+I'm Mikkilineni Mahendra! I'm a Frontend enginner passionate about making interfaces interactive and user friendly. 
 <!--
 **MikkilineniMahendera/MikkilineniMahendera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
