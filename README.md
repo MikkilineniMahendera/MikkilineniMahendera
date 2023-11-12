@@ -1,7 +1,8 @@
  ### Hi there 👋
 I'm Mikkilineni Mahendra! I'm a Frontend enginner passionate about making interfaces interactive and user friendly. I help compnies to develop a bridge between Users and Engineering team with my special powers.
 
-### Special Powers
+
+
 
 <!--
 **MikkilineniMahendera/MikkilineniMahendera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
