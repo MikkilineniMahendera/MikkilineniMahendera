@@ -1,7 +1,7 @@
  ### Hi there 👋
 <p align="center">I'm Mikkilineni Mahendra! I'm a Frontend enginner passionate about making interfaces interactive and user friendly. I help compnies to develop a bridge between Users and Engineering team.</p>
 
-             <p align="center"> Contact me on Send an Email</p>
+ <p align="center"> Contact me on Send an Email</p>
 
 📚 I’m currently working on Javascript and React js   
 👨🏻‍🎓 I’m currently working on SQL and NoSQL  
