@@ -9,7 +9,8 @@
 😎 I’m looking for help with collabrating with good community of developers  
 🔥 Ask me about Games, Movies , Traveling , Technology ,Philosophy..  
 
-<p align="center"> Contact me on Send an Email</p>
+<p align="center"> Contact me on [Send an Email](m.miikilineni01@gmail.com)</p>
+<p align ="center">Thanks for Visting ❤️</p>
 
 
 
